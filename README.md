@@ -32,15 +32,3 @@ My Diary is a simple and private journaling application for Android. It allows y
 *   Google Sign-In for Android
 *   AndroidX Libraries (AppCompat, RecyclerView, etc.)
 *   Gson for data serialization
-
-## Screenshots
-
-*(Optional: You can add screenshots of your app here to make the README more engaging. For example:)*
-
-| Login Screen                                       | Main Screen                                    | Add Entry Screen                                   |
-| -------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
-| ![Login](link_to_your_login_screenshot.png) | ![Main](link_to_your_main_screen_screenshot.png) | ![Add](link_to_your_add_entry_screenshot.png) |
-
----
-
-This project was developed with assistance from an AI coding assistant.
